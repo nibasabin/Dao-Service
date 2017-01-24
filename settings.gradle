@@ -1,0 +1,4 @@
+
+rootProject.name = 'Dao-Service'
+include   ':SRB-2596'
+project(':SRB-2596').projectDir = new File(settingsDir, '../SRB-2596')
